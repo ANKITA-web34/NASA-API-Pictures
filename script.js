@@ -1,13 +1,4 @@
-
-
-
-
-
-
-
-
-
-onst resultNav = document.getElementById('resultNav');
+const resultNav = document.getElementById('resultNav');
 const favoritesNav = document.getElementById('favoritesNav');
 const imageContainer = document.querySelector('.images-conatiner');
 const saveConfirmed = document.querySelector('.save-confirmed"');
